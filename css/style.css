@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+.bg { 
+    /* The image used */
+    background-image: url("https://i.pinimg.com/originals/1d/da/26/1dda26bbc0424889bd543d49d6e6af1c.jpg");
+  
+    /* Full height */
+    height: 100%; 
+  
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .form_fondo{
+    background-color:#fff;
+  }
+  .modal{
+   
+  }
+  
